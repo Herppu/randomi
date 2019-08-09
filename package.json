@@ -1,0 +1,23 @@
+{
+  "name": "randomi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herppu/randomi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herppu/randomi/issues"
+  },
+  "homepage": "https://github.com/herppu/randomi#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
+}
